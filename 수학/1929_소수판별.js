@@ -1,11 +1,13 @@
 /**
- * 1929 소수구하기
+ * 문제: 소수구하기
+ * 중요개념: 소수 판별 함수 (에라토스테네스의 체))
  */
 const fs = require('fs');
 const input = fs.readFileSync('example.txt').toString().trim();
 
 const [m, n] = input.split(' ').map((v) => Number(v));
 
+// 에라토스 아닌 풀이
 // function isPrime(num) {
 //   for (let i = 2; i * i <= num; i++) {
 //     if (num % i == 0) {

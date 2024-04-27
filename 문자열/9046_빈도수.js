@@ -1,3 +1,9 @@
+/**
+ * 문제: 주어진 문자열에서 빈도수 높은 문자 출력, 여러개면 물음표 출력
+ *
+ * 풀이과정
+ * - 공백이 있으므로 공백 제거해주기
+ */
 const fs = require('fs');
 const [n, ...input] = fs
   .readFileSync('/dev/stdin')
