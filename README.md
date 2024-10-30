@@ -1,3 +1,3 @@
-# js-coding-test
+# js-problem-solving
 
-어쩌구저쩌구
+알고리즘 문제 해결 내용 기록
