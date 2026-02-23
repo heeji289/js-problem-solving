@@ -28,4 +28,4 @@
 
 ---
 
-[코드](./boj25195_Yes-of-yes_DFS필터링.js)
+[코드](./BOJ25195_Yes-of-yes_DFS필터링.js)
